@@ -1,16 +1,24 @@
-
-
 body {
-    background-image: url('hotel.jpg');
+    padding-top: 30px;
     text-align: center;
+    
+    
 }
 
+html {
+
+    background-image: url('pittsburgh.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
 form {
     padding-top: 40px;
     text-align: center;
     display: inline-flex;
     flex-direction: row;
-    flex-wrap: wrap;
+    flex-wrap: wrap;    
 }
 
 label {
